@@ -1,0 +1,51 @@
+.title-2{
+    color: green;
+    text-align: center;
+}
+    .title{
+        text-align:center;
+    }
+.titre1{
+    color: blueviolet;
+}
+.parent h2{
+    color: green;
+}
+.parent .enfant2 h2{
+    color: yellow;
+}
+.parent .enfant3 h2{
+    color: red;
+}
+.parent .enfant4 p{
+    color: orange;
+}
+header{
+    display: flex;
+}
+header nav ul{
+    display: flex;
+    gap: 20px;
+}
+header nav ul li{
+    list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.chef .enfant1 .enfant1-1{
+    color: chocolate;
+}
+.chef .enfant1 .enfant1-2{
+    color:bisque;
+}
+.chef .enfant2 p{
+    color: deeppink;
+}
+.plug h2{
+    color: beige;
+}
+.plug .enfant1 p{
+    color: black;
+}
